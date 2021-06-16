@@ -7,7 +7,7 @@
 		revision="0.1"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20201227120608"/>
+		date="20210616203513"/>
 	<dependencies>
 		<module organisation="com.typesafe.akka" name="akka-cluster-sharding_2.12">
 			<revision name="2.5.21" status="release" pubdate="20190213192123" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" extra-info.apiURL="http://doc.akka.io/api/akka/2.5.21" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="25">
@@ -15,7 +15,7 @@
 				<metadata-artifact status="no" details="" size="4166" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-cluster-sharding_2.12\ivy-2.5.21.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-cluster-sharding_2.12/2.5.21/akka-cluster-sharding_2.12-2.5.21.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="2.5.21" rev-constraint-default="2.5.21" rev-constraint-dynamic="2.5.21" callerrev="0.1" extra-info.apiURL="http://doc.akka.io/api/akka/2.5.21"/>
 				<artifacts>
-					<artifact name="akka-cluster-sharding_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="65961" time="1611" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-cluster-sharding_2.12\srcs\akka-cluster-sharding_2.12-2.5.21-sources.jar">
+					<artifact name="akka-cluster-sharding_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="65961" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-cluster-sharding_2.12\srcs\akka-cluster-sharding_2.12-2.5.21-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-cluster-sharding_2.12/2.5.21/akka-cluster-sharding_2.12-2.5.21-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -27,7 +27,7 @@
 				<metadata-artifact status="no" details="" size="3251" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-cluster-tools_2.12\ivy-2.5.21.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-cluster-tools_2.12/2.5.21/akka-cluster-tools_2.12-2.5.21.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="2.5.21" rev-constraint-default="2.5.21" rev-constraint-dynamic="2.5.21" callerrev="0.1" extra-info.apiURL="http://doc.akka.io/api/akka/2.5.21"/>
 				<artifacts>
-					<artifact name="akka-cluster-tools_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="65262" time="1756" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-cluster-tools_2.12\srcs\akka-cluster-tools_2.12-2.5.21-sources.jar">
+					<artifact name="akka-cluster-tools_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="65262" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-cluster-tools_2.12\srcs\akka-cluster-tools_2.12-2.5.21-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-cluster-tools_2.12/2.5.21/akka-cluster-tools_2.12-2.5.21-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -39,7 +39,7 @@
 				<metadata-artifact status="no" details="" size="4208" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-persistence_2.12\ivy-2.5.21.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-persistence_2.12/2.5.21/akka-persistence_2.12-2.5.21.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="2.5.21" rev-constraint-default="2.5.21" rev-constraint-dynamic="2.5.21" callerrev="0.1" extra-info.apiURL="http://doc.akka.io/api/akka/2.5.21"/>
 				<artifacts>
-					<artifact name="akka-persistence_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="116358" time="1625" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-persistence_2.12\srcs\akka-persistence_2.12-2.5.21-sources.jar">
+					<artifact name="akka-persistence_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="116358" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-persistence_2.12\srcs\akka-persistence_2.12-2.5.21-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-persistence_2.12/2.5.21/akka-persistence_2.12-2.5.21-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -51,7 +51,7 @@
 				<metadata-artifact status="no" details="" size="3400" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-distributed-data_2.12\ivy-2.5.21.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-distributed-data_2.12/2.5.21/akka-distributed-data_2.12-2.5.21.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="2.5.21" rev-constraint-default="2.5.21" rev-constraint-dynamic="2.5.21" callerrev="0.1" extra-info.apiURL="http://doc.akka.io/api/akka/2.5.21"/>
 				<artifacts>
-					<artifact name="akka-distributed-data_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="200320" time="2219" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-distributed-data_2.12\srcs\akka-distributed-data_2.12-2.5.21-sources.jar">
+					<artifact name="akka-distributed-data_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="200320" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-distributed-data_2.12\srcs\akka-distributed-data_2.12-2.5.21-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-distributed-data_2.12/2.5.21/akka-distributed-data_2.12-2.5.21-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -63,7 +63,7 @@
 				<metadata-artifact status="no" details="" size="9483" time="0" location="C:\Users\quynh\.ivy2\cache\org.lmdbjava\lmdbjava\ivy-0.6.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/lmdbjava/lmdbjava/0.6.1/lmdbjava-0.6.1.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="0.6.1" rev-constraint-default="0.6.1" rev-constraint-dynamic="0.6.1" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="lmdbjava" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="65894" time="1928" location="C:\Users\quynh\.ivy2\cache\org.lmdbjava\lmdbjava\srcs\lmdbjava-0.6.1-sources.jar">
+					<artifact name="lmdbjava" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="65894" time="0" location="C:\Users\quynh\.ivy2\cache\org.lmdbjava\lmdbjava\srcs\lmdbjava-0.6.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/lmdbjava/lmdbjava/0.6.1/lmdbjava-0.6.1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -75,7 +75,7 @@
 				<metadata-artifact status="no" details="" size="3476" time="0" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jnr-constants\ivy-0.9.9.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/github/jnr/jnr-constants/0.9.9/jnr-constants-0.9.9.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="0.9.9" rev-constraint-default="0.9.9" rev-constraint-dynamic="0.9.9" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="jnr-constants" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="143786" time="1927" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jnr-constants\srcs\jnr-constants-0.9.9-sources.jar">
+					<artifact name="jnr-constants" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="143786" time="0" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jnr-constants\srcs\jnr-constants-0.9.9-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/github/jnr/jnr-constants/0.9.9/jnr-constants-0.9.9-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -87,7 +87,7 @@
 				<metadata-artifact status="no" details="" size="3501" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-cluster_2.12\ivy-2.5.21.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-cluster_2.12/2.5.21/akka-cluster_2.12-2.5.21.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="2.5.21" rev-constraint-default="2.5.21" rev-constraint-dynamic="2.5.21" callerrev="0.1" extra-info.apiURL="http://doc.akka.io/api/akka/2.5.21"/>
 				<artifacts>
-					<artifact name="akka-cluster_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="136206" time="2035" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-cluster_2.12\srcs\akka-cluster_2.12-2.5.21-sources.jar">
+					<artifact name="akka-cluster_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="136206" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-cluster_2.12\srcs\akka-cluster_2.12-2.5.21-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-cluster_2.12/2.5.21/akka-cluster_2.12-2.5.21-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -99,7 +99,7 @@
 				<metadata-artifact status="no" details="" size="4483" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-remote_2.12\ivy-2.5.21.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-remote_2.12/2.5.21/akka-remote_2.12-2.5.21.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="2.5.21" rev-constraint-default="2.5.21" rev-constraint-dynamic="2.5.21" callerrev="0.1" extra-info.apiURL="http://doc.akka.io/api/akka/2.5.21"/>
 				<artifacts>
-					<artifact name="akka-remote_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="346440" time="1878" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-remote_2.12\srcs\akka-remote_2.12-2.5.21-sources.jar">
+					<artifact name="akka-remote_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="346440" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-remote_2.12\srcs\akka-remote_2.12-2.5.21-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-remote_2.12/2.5.21/akka-remote_2.12-2.5.21-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -111,7 +111,7 @@
 				<metadata-artifact status="no" details="" size="3246" time="0" location="C:\Users\quynh\.ivy2\cache\io.aeron\aeron-driver\ivy-1.15.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/aeron/aeron-driver/1.15.1/aeron-driver-1.15.1.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="1.15.1" rev-constraint-default="1.15.1" rev-constraint-dynamic="1.15.1" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="aeron-driver" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="178526" time="1548" location="C:\Users\quynh\.ivy2\cache\io.aeron\aeron-driver\srcs\aeron-driver-1.15.1-sources.jar">
+					<artifact name="aeron-driver" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="178526" time="0" location="C:\Users\quynh\.ivy2\cache\io.aeron\aeron-driver\srcs\aeron-driver-1.15.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/aeron/aeron-driver/1.15.1/aeron-driver-1.15.1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -123,7 +123,7 @@
 				<metadata-artifact status="no" details="" size="3105" time="0" location="C:\Users\quynh\.ivy2\cache\io.aeron\aeron-client\ivy-1.15.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/aeron/aeron-client/1.15.1/aeron-client-1.15.1.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="1.15.1" rev-constraint-default="1.15.1" rev-constraint-dynamic="1.15.1" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="aeron-client" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="160985" time="1692" location="C:\Users\quynh\.ivy2\cache\io.aeron\aeron-client\srcs\aeron-client-1.15.1-sources.jar">
+					<artifact name="aeron-client" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="160985" time="0" location="C:\Users\quynh\.ivy2\cache\io.aeron\aeron-client\srcs\aeron-client-1.15.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/aeron/aeron-client/1.15.1/aeron-client-1.15.1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -135,7 +135,7 @@
 				<metadata-artifact status="no" details="" size="3064" time="0" location="C:\Users\quynh\.ivy2\cache\org.agrona\agrona\ivy-0.9.31.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/agrona/agrona/0.9.31/agrona-0.9.31.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="0.9.31" rev-constraint-default="0.9.31" rev-constraint-dynamic="0.9.31" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="agrona" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="264433" time="1793" location="C:\Users\quynh\.ivy2\cache\org.agrona\agrona\srcs\agrona-0.9.31-sources.jar">
+					<artifact name="agrona" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="264433" time="0" location="C:\Users\quynh\.ivy2\cache\org.agrona\agrona\srcs\agrona-0.9.31-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/agrona/agrona/0.9.31/agrona-0.9.31-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -147,7 +147,7 @@
 				<metadata-artifact status="no" details="" size="7263" time="0" location="C:\Users\quynh\.ivy2\cache\io.netty\netty\ivy-3.10.6.Final.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/netty/netty/3.10.6.Final/netty-3.10.6.Final.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="3.10.6.Final" rev-constraint-default="3.10.6.Final" rev-constraint-dynamic="3.10.6.Final" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="netty" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1132389" time="2642" location="C:\Users\quynh\.ivy2\cache\io.netty\netty\srcs\netty-3.10.6.Final-sources.jar">
+					<artifact name="netty" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1132389" time="0" location="C:\Users\quynh\.ivy2\cache\io.netty\netty\srcs\netty-3.10.6.Final-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/netty/netty/3.10.6.Final/netty-3.10.6.Final-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -159,7 +159,7 @@
 				<metadata-artifact status="no" details="" size="3585" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\ivy-2.5.21.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.12/2.5.21/akka-stream_2.12-2.5.21.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="2.5.21" rev-constraint-default="2.5.21" rev-constraint-dynamic="2.5.21" callerrev="0.1" extra-info.apiURL="http://doc.akka.io/api/akka/2.5.21"/>
 				<artifacts>
-					<artifact name="akka-stream_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="514504" time="1975" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\srcs\akka-stream_2.12-2.5.21-sources.jar">
+					<artifact name="akka-stream_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="514504" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\srcs\akka-stream_2.12-2.5.21-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.12/2.5.21/akka-stream_2.12-2.5.21-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -207,7 +207,7 @@
 				<metadata-artifact status="no" details="" size="3139" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\ivy-2.5.21.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.21/akka-actor_2.12-2.5.21.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="2.5.21" rev-constraint-default="2.5.21" rev-constraint-dynamic="2.5.21" callerrev="0.1" extra-info.apiURL="http://doc.akka.io/api/akka/2.5.21"/>
 				<artifacts>
-					<artifact name="akka-actor_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="567695" time="2192" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\srcs\akka-actor_2.12-2.5.21-sources.jar">
+					<artifact name="akka-actor_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="567695" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\srcs\akka-actor_2.12-2.5.21-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.21/akka-actor_2.12-2.5.21-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -243,7 +243,7 @@
 				<metadata-artifact status="no" details="" size="4965" time="0" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jnr-ffi\ivy-2.1.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/github/jnr/jnr-ffi/2.1.7/jnr-ffi-2.1.7.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="2.1.7" rev-constraint-default="2.1.7" rev-constraint-dynamic="2.1.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="jnr-ffi" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="365726" time="2106" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jnr-ffi\srcs\jnr-ffi-2.1.7-sources.jar">
+					<artifact name="jnr-ffi" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="365726" time="0" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jnr-ffi\srcs\jnr-ffi-2.1.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/github/jnr/jnr-ffi/2.1.7/jnr-ffi-2.1.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -255,7 +255,7 @@
 				<metadata-artifact status="no" details="" size="3230" time="0" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jnr-x86asm\ivy-1.0.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/github/jnr/jnr-x86asm/1.0.2/jnr-x86asm-1.0.2.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="1.0.2" rev-constraint-default="1.0.2" rev-constraint-dynamic="1.0.2" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="jnr-x86asm" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="171252" time="2106" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jnr-x86asm\srcs\jnr-x86asm-1.0.2-sources.jar">
+					<artifact name="jnr-x86asm" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="171252" time="0" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jnr-x86asm\srcs\jnr-x86asm-1.0.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/github/jnr/jnr-x86asm/1.0.2/jnr-x86asm-1.0.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -291,7 +291,7 @@
 				<metadata-artifact status="no" details="" size="4182" time="0" location="C:\Users\quynh\.ivy2\cache\org.ow2.asm\asm-commons\ivy-5.0.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/5.0.3/asm-commons-5.0.3.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="5.0.3" rev-constraint-default="5.0.3" rev-constraint-dynamic="5.0.3" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="asm-commons" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1038486" time="2733" location="C:\Users\quynh\.ivy2\cache\org.ow2.asm\asm-commons\srcs\asm-commons-5.0.3-sources.jar">
+					<artifact name="asm-commons" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1038486" time="0" location="C:\Users\quynh\.ivy2\cache\org.ow2.asm\asm-commons\srcs\asm-commons-5.0.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/5.0.3/asm-commons-5.0.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -327,7 +327,7 @@
 				<metadata-artifact status="no" details="" size="3653" time="0" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jffi\ivy-1.2.16.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/github/jnr/jffi/1.2.16/jffi-1.2.16.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="1.2.16" rev-constraint-default="1.2.16" rev-constraint-dynamic="1.2.16" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="jffi" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="88185" time="1643" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jffi\srcs\jffi-1.2.16-sources.jar">
+					<artifact name="jffi" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="88185" time="0" location="C:\Users\quynh\.ivy2\cache\com.github.jnr\jffi\srcs\jffi-1.2.16-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/github/jnr/jffi/1.2.16/jffi-1.2.16-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -339,7 +339,7 @@
 				<metadata-artifact status="no" details="" size="2845" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-protobuf_2.12\ivy-2.5.21.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf_2.12/2.5.21/akka-protobuf_2.12-2.5.21.pom"/>
 				<caller organisation="udemy-akka-remoting-clustering" name="udemy-akka-remoting-clustering$sources" conf="compile, runtime-internal, runtime, optional" rev="2.5.21" rev-constraint-default="2.5.21" rev-constraint-dynamic="2.5.21" callerrev="0.1" extra-info.apiURL="http://doc.akka.io/api/akka/2.5.21"/>
 				<artifacts>
-					<artifact name="akka-protobuf_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="277110" time="1999" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-protobuf_2.12\srcs\akka-protobuf_2.12-2.5.21-sources.jar">
+					<artifact name="akka-protobuf_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="277110" time="0" location="C:\Users\quynh\.ivy2\cache\com.typesafe.akka\akka-protobuf_2.12\srcs\akka-protobuf_2.12-2.5.21-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf_2.12/2.5.21/akka-protobuf_2.12-2.5.21-sources.jar"/>
 					</artifact>
 				</artifacts>

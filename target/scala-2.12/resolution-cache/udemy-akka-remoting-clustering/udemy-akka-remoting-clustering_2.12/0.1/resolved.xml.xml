@@ -4,7 +4,7 @@
 		module="udemy-akka-remoting-clustering_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20201227115830"
+		publication="20210616203512"
 	>
 		<description>
 		udemy-akka-remoting-clustering
